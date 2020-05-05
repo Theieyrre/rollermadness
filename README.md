@@ -1,2 +1,2 @@
 # rollermadness
-Roller Madness Project from Introduction to Game Development
+Roller Madness assignment from Introduction to Game Development
